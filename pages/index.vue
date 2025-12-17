@@ -68,7 +68,8 @@
         </h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
           <div v-for="movie in movies" :key="movie.id"
-            class="bg-gray-800 rounded-lg overflow-hidden hover:transform hover:scale-105 transition duration-300 cursor-pointer">
+            class="bg-gray-800 rounded-lg overflow-hidden hover:transform hover:scale-105 transition duration-300 cursor-pointer"
+            @click="goToMovie(movie.id)">
             <img :src="getMoviePosterUrl(movie.poster_path)" :alt="movie.title" class="w-full h-[400px] object-cover"
               @error="handleImageError" />
             <div class="p-4">
@@ -82,7 +83,8 @@
                 <span class="text-yellow-400 text-sm">{{
                   movie.release_date
                 }}</span>
-                <span class="text-blue-400 text-sm">⭐ {{ movie.vote_average.toFixed(1) }}</span>
+                <span class="text-blue-400 text-sm">⭐ {{ movie.vote_average ? movie.vote_average.toFixed(1) : 'N/A'
+                }}</span>
               </div>
             </div>
           </div>
@@ -182,6 +184,14 @@ const handleImageError = (event) => {
   const img = event.target;
   img.src =
     'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="500" height="750"%3E%3Crect fill="%23333" width="500" height="750"/%3E%3Ctext fill="%23999" font-family="Arial" font-size="20" x="50%25" y="50%25" text-anchor="middle" dy=".3em"%3ENo Image%3C/text%3E%3C/svg%3E';
+};
+
+const router = useRouter();
+
+const goToMovie = (movieId) => {
+  if (movieId) {
+    router.push(`/movie/${movieId}`);
+  }
 };
 </script>
 

@@ -42,9 +42,39 @@ export const useMovieApi = () => {
     return `https://image.tmdb.org/t/p/w500${posterPath}`;
   };
 
+  const getMovieDetails = async (movieId) => {
+    if (!movieId) {
+      return null;
+    }
+
+    if (!isApiKeySet()) {
+      console.error(
+        "Movie API key is not set. Please add NUXT_PUBLIC_MOVIE_API_KEY to your .env file"
+      );
+      return null;
+    }
+
+    try {
+      const url = `${movieApiBaseUrl}/movie/${movieId}?api_key=${movieApiKey}&language=en-US`;
+
+      const response = await fetch(url);
+
+      if (!response.ok) {
+        throw new Error(`API error: ${response.status}`);
+      }
+
+      const data = await response.json();
+      return data;
+    } catch (error) {
+      console.error("Error fetching movie details:", error);
+      return null;
+    }
+  };
+
   return {
     searchMovies,
     getMoviePosterUrl,
+    getMovieDetails,
     isApiKeySet,
   };
 };
