@@ -6,7 +6,7 @@
       </h1>
 
       <div
-        class="flex items-center gap-2 bg-gray-800 text-white px-4 py-3 rounded-full w-auto lg:w-[520px] md:w-[400px] border border-gray-700 focus-within:border-blue-500 transition mt-4">
+        class="flex items-center gap-2 bg-gray-800 text-white px-4 py-3 rounded-full w-auto lg:w-[520px] md:w-[400px] border border-gray-700 focus-within:border-[#746799] transition mt-4">
         <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24" fill="none"
           stroke="currentColor" stroke-width="2" class="text-gray-300">
           <circle cx="11" cy="11" r="5.5" />
