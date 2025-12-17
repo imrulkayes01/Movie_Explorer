@@ -1,0 +1,145 @@
+[
+  {
+    "id": "item_01",
+    "name": "Avatar: The Way of Water",
+    "description": "Set more than a decade after the events of the first film.",
+    "image": "/photo/avatar.webp",
+    "Date": "2022-12-14"
+  },
+  {
+    "id": "item_02",
+    "name": "The Lord of the Rings: The Two Towers",
+    "description": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest",
+    "image": "/photo/the-lord.webp",
+    "Date": "2002-12-18"
+  },
+  {
+    "id": "item_03",
+    "name": "Coco",
+    "description": "A young boy embarks on an extraordinary journey to the Land of the Dead.",
+    "image": "/photo/coco.webp",
+    "Date": "2017-10-27"
+  },
+
+  {
+    "id": "item_04",
+    "name": "Oppenheimer",
+    "description": "The story of J. Robert Oppenheimer's role in the development of the atomic",
+    "image": "/photo/oppenheimer.webp",
+    "Date": "2023-07-19"
+  },
+
+  {
+    "id": "item_05",
+    "name": "Van Helsing",
+    "description": "Famed monster slayer Gabriel Van Helsing is dispatched to Transylvania to assist the last",
+    "image": "/photo/van-helsing.webp",
+    "Date": "2004-05-03"
+  },
+  {
+    "id": "item_06",
+    "name": "Titanic",
+    "description": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 year",
+    "image": "/photo/titanic.webp",
+    "Date": "1997-11-18"
+  },
+  {
+    "id": "item_07",
+    "name": "Thor",
+    "description": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god ",
+    "image": "/photo/thor.webp",
+    "Date": "2021-10-22"
+  },
+  {
+    "id": "item_08",
+    "name": "The Revenant",
+    "description": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those",
+    "image": "/photo/the-revenant.webp",
+    "Date": "2015-12-25"
+  },
+  {
+    "id": "item_09",
+    "name": "Avengers: Infinity War",
+    "description": "The Avengers face their greatest threat yet against Thanos.",
+    "image": "/photo/avengers.webp",
+    "Date": "2018-04-25"
+  },
+  {
+    "id": "item_10",
+    "name": "The Second Jungle Book: Mowgli & Baloo",
+    "description": "In this exciting live-action adventure, young Mowgli, an orphan raised by wolves, is",
+    "image": "/photo/the-jungle-book.webp",
+    "Date": "1997-05-21"
+  },
+  {
+    "id": "item_11",
+    "name": "The Good Dinosaur",
+    "description": "An epic journey into the world of dinosaurs where an Apatosaurus named Arlo.",
+    "image": "/photo/the-good-dinosaur.webp",
+    "Date": "2015-11-14"
+  },
+  {
+    "id": "item_12",
+    "name": "The Dark Knight",
+    "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District",
+    "image": "/photo/the-dark-knight.webp",
+    "Date": "2008-07-16"
+  },
+  {
+    "id": "item_13",
+    "name": "Shang-Chi and the Legend of the Ten",
+    "description": "Shang-Chi must confront the past he thought he left behind when he is drawn into the we",
+    "image": "/photo/ten-rings.webp",
+    "Date": "2021-09-01"
+  },
+  {
+    "id": "item_14",
+    "name": "Spider-Man: No Way Home",
+    "description": "Peter Parker is unmasked and no longer able to separate his normal life from the high",
+    "image": "/photo/spider-man.webp",
+    "Date": "2021-12-15"
+  },
+  {
+    "id": "item_15",
+    "name": "Dead Man's Chest",
+    "description": "Captain Jack Sparrow races to recover the heart of Davy Jones.",
+    "image": "/photo/dead-man’s.webp",
+    "Date": "2006-07-06"
+  },
+  {
+    "id": "item_16",
+    "name": "Maleficent",
+    "description": "A beautiful, pure-hearted young woman, Maleficent has an idyllic life growing up in a",
+    "image": "/photo/maleficent.webp",
+    "Date": "2014-05-28"
+  },
+  {
+    "id": "item_17",
+    "name": "Joker",
+    "description": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of",
+    "image": "/photo/joker.webp",
+    "Date": "2019-10-01"
+  },
+  {
+    "id": "item_18",
+    "name": "John Wick",
+    "description": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took",
+    "image": "/photo/john-wick.webp",
+    "Date": "2014-10-22"
+  },
+  {
+    "id": "item_19",
+    "name": "Gladiator",
+    "description": "After the death of Emperor Marcus Aurelius, his devious son takes power and demote",
+    "image": "/photo/gladiator.webp",
+    "Date": "2000-05-04"
+  },
+
+  {
+    "id": "item_20",
+    "name": "Dune",
+    "description": "A noble family becomes embroiled in a war for control of a desert planet.",
+    "image": "/photo/dune.webp",
+    "Date": "2021-10-22"
+  }
+]

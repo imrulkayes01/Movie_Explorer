@@ -1,0 +1,122 @@
+[
+  {
+    "id": "item_1",
+    "name": "Mango Berry Smoothie Bowl",
+    "description": "Rich in antioxidant berries & fiber",
+    "image": "/photo/avatar.webp"
+  },
+  {
+    "id": "item_2",
+    "name": "High-Protein Lentil Soup",
+    "description": "Great for energy",
+    "image": ""
+  },
+  {
+    "id": "item_3",
+    "name": "Grilled Chicken Salad",
+    "description": "Rich in 5 vitamins",
+    "image": ""
+  },
+  {
+    "id": "item_4",
+    "name": "Grilled Chicken",
+    "description": "Lean protein & vitamins",
+    "image": ""
+  },
+  {
+    "id": "item_5",
+    "name": "Sweet Potato Wedges",
+    "description": "Good carbs & essential nutrients",
+    "image": ""
+  },
+  {
+    "id": "item_6",
+    "name": "Whole-Wheat Blueberry Parfait",
+    "description": "Blueberry Parfait",
+    "image": ""
+  },
+  {
+    "id": "item_7",
+    "name": "Healthy Salad Bowl",
+    "description": "Fresh greens & nutrients",
+    "image": ""
+  },
+  {
+    "id": "item_8",
+    "name": "Green Detox Juice",
+    "description": "Revitalize & cleanse",
+    "image": ""
+  },
+  {
+    "id": "item_9",
+    "name": "Green Detox Juice",
+    "description": "Revitalize & cleanse",
+    "image": ""
+  },
+  {
+    "id": "item_10",
+    "name": "Green Detox Juice",
+    "description": "Revitalize & cleanse",
+    "image": ""
+  },
+  {
+    "id": "item_11",
+    "name": "Green Detox Juice",
+    "description": "Revitalize & cleanse",
+    "image": ""
+  },
+  {
+    "id": "item_12",
+    "name": "Green Detox Juice",
+    "description": "Revitalize & cleanse",
+    "image": ""
+  },
+  {
+    "id": "item_13",
+    "name": "Green Detox Juice",
+    "description": "Revitalize & cleanse",
+    "image": ""
+  },
+  {
+    "id": "item_14",
+    "name": "Green Detox Juice",
+    "description": "Revitalize & cleanse",
+    "image": ""
+  },
+  {
+    "id": "item_15",
+    "name": "Green Detox Juice",
+    "description": "Revitalize & cleanse",
+    "image": ""
+  },
+  {
+    "id": "item_16",
+    "name": "Green Detox Juice",
+    "description": "Revitalize & cleanse",
+    "image": ""
+  },
+  {
+    "id": "item_17",
+    "name": "Green Detox Juice",
+    "description": "Revitalize & cleanse",
+    "image": ""
+  },
+  {
+    "id": "item_18",
+    "name": "Green Detox Juice",
+    "description": "Revitalize & cleanse",
+    "image": ""
+  },
+  {
+    "id": "item_19",
+    "name": "Green Detox Juice",
+    "description": "Revitalize & cleanse",
+    "image": ""
+  },
+  {
+    "id": "item_20",
+    "name": "Green Detox Juice",
+    "description": "Revitalize & cleanse",
+    "image": ""
+  }
+]
