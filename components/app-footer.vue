@@ -79,9 +79,10 @@
           <div class="flex items-center space-x-3">
             <a href="https://x.com/imrulkayes_01" target="_blank" rel="noopener noreferrer"
               class="p-2 rounded-md bg-gray-800 hover:bg-gray-700 transition-colors" aria-label="Twitter">
-              <svg class="w-5 h-5 text-white" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <svg class="w-5 h-5 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
                 <path
-                  d="M22 5.92c-.7.31-1.46.52-2.26.61a3.93 3.93 0 0 0 1.72-2.16 7.86 7.86 0 0 1-2.5.96 3.92 3.92 0 0 0-6.69 3.57A11.13 11.13 0 0 1 3 4.87a3.92 3.92 0 0 0 1.21 5.23 3.88 3.88 0 0 1-1.78-.49v.05a3.92 3.92 0 0 0 3.14 3.84c-.48.13-.99.2-1.52.08a3.92 3.92 0 0 0 3.66 2.72A7.87 7.87 0 0 1 2 19.54a11.12 11.12 0 0 0 6.03 1.77c7.24 0 11.2-6 11.2-11.2v-.51A7.98 7.98 0 0 0 22 5.92z" />
+                  d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
               </svg>
             </a>
 
@@ -89,15 +90,17 @@
               class="p-2 rounded-md bg-gray-800 hover:bg-gray-700 transition-colors" aria-label="Facebook">
               <svg class="w-5 h-5 text-white" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
                 <path
-                  d="M22 12a10 10 0 1 0-11.5 9.9v-7H8v-3h2.5V9.5c0-2.5 1.5-3.9 3.7-3.9 1.1 0 2.2.2 2.2.2v2.4h-1.2c-1.2 0-1.6.8-1.6 1.6V12H20l-.5 3h-2.9v7A10 10 0 0 0 22 12z" />
+                  d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z" />
               </svg>
             </a>
 
             <a href="https://www.instagram.com/imrulkayes_01/" target="_blank" rel="noopener noreferrer"
               class="p-2 rounded-md bg-gray-800 hover:bg-gray-700 transition-colors" aria-label="Instagram">
-              <svg class="w-5 h-5 text-white" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-                <path
-                  d="M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5zm5 6.3A4.7 4.7 0 1 0 16.7 13 4.7 4.7 0 0 0 12 8.3zm6.3-3.6a1.1 1.1 0 1 1-1.1-1.1 1.1 1.1 0 0 1 1.1 1.1zM12 10a2 2 0 1 1-2 2 2 2 0 0 1 2-2z" />
+              <svg class="w-5 h-5 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <rect x="2" y="2" width="20" height="20" rx="5" ry="5" />
+                <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" />
+                <line x1="17.5" y1="6.5" x2="17.51" y2="6.5" />
               </svg>
             </a>
           </div>
